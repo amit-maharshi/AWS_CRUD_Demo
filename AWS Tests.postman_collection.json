@@ -21,7 +21,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://ebnffdmspl.execute-api.us-east-1.amazonaws.com/dev/items",
+					"raw": "https://kfry9hcfvi.execute-api.us-east-1.amazonaws.com/dev/items",
 					"protocol": "https",
 					"host": [
 						"ebnffdmspl",
@@ -44,7 +44,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://ebnffdmspl.execute-api.us-east-1.amazonaws.com/dev/items",
+					"raw": "https://kfry9hcfvi.execute-api.us-east-1.amazonaws.com/dev/items",
 					"protocol": "https",
 					"host": [
 						"ebnffdmspl",
@@ -67,7 +67,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://ebnffdmspl.execute-api.us-east-1.amazonaws.com/dev/items/1234",
+					"raw": "https://kfry9hcfvi.execute-api.us-east-1.amazonaws.com/dev/items/1234",
 					"protocol": "https",
 					"host": [
 						"ebnffdmspl",
@@ -91,7 +91,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "https://ebnffdmspl.execute-api.us-east-1.amazonaws.com/dev/items/1234",
+					"raw": "https://kfry9hcfvi.execute-api.us-east-1.amazonaws.com/dev/items/1234",
 					"protocol": "https",
 					"host": [
 						"ebnffdmspl",
